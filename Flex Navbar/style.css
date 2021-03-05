@@ -1,0 +1,52 @@
+*{ 
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+#wrapper{ 
+    background-color:rgb(37, 0, 115);
+    width: 1000px;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.subcontexts{
+    background-color: rgb(245, 220, 171);
+    width:  100px;
+    height: 100px;
+}
+div{
+    background-color: rgb( 103, 130, 227) ;
+    display: flex;
+    justify-content:space-around;
+    color: white;
+    align-items: center;
+    font-family: sans-serif;
+}
+
+h1{
+    font-weight: 100;
+    font-size: 25px;
+    width: 280px;
+}
+img{
+    height: 100px;
+    padding: 20px;
+}
+a { 
+    color: white;
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+    width: 1270px;
+    display:flex;
+    justify-content: space-evenly;
+
+}
+li{
+    display: inline;
+}
